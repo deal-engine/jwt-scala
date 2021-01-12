@@ -1,2 +1,2 @@
 install:
-  - sbt '+ publishM2'
+  - sbt '++2.13.3 publishM2;'
